@@ -1,36 +1,36 @@
-# Pradeep Singh Bhawariya — Java Full Stack Training Website
+# Java Full Stack Training Website — Version 2
 
-A zero-cost static website for GitHub Pages.
+Free static website for GitHub Pages. Built for Pradeep Singh Bhawariya's in-house Java Full Stack training in Bindayaka, Jaipur.
 
-## Before publishing
+## Included
+- SEO-focused homepage
+- Java, Spring Boot, Angular and Full Stack course pages
+- Trainer / experience page
+- Project experience page
+- Contact page with direct WhatsApp, phone and email
+- `sitemap.xml`
+- `robots.txt`
+- Responsive design
+- No paid hosting or backend required
 
-Edit `index.html` and replace:
+## Profile links
+The website is pre-configured with the supplied contact profiles:
+- LinkedIn: `https://www.linkedin.com/in/pradeepsingh80/`
+- GitHub: `https://github.com/psrofficial07`
+- WhatsApp: `https://wa.me/917737326539`
 
-- `https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/`
-- `https://github.com/YOUR-GITHUB-USERNAME`
+The resume PDF is included at `assets/Pradeep-Singh-Bhawariya-CV.pdf`.
 
-with your real LinkedIn and GitHub profile URLs.
+## GitHub Pages
+1. Upload all files to the root of your repository.
+2. Repository must be public on GitHub Free.
+3. Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
+4. Leave Custom domain empty unless you own a domain.
+5. After deployment, open the site URL.
 
-The WhatsApp number is currently based on the phone number in the supplied resume: `+91-7737326539`.
+## Google Search Console
+Add the exact live URL as a URL-prefix property and submit:
+`https://psrofficial07.github.io/java-fullstack-training/sitemap.xml`
 
-## Free hosting
-
-1. Create a GitHub account if you do not already have one.
-2. Create a public repository, e.g. `java-fullstack-training`.
-3. Upload `index.html`, `styles.css`, `script.js`, `README.md`, and the `assets` folder.
-4. Open **Settings → Pages**.
-5. Under **Build and deployment → Source**, select **Deploy from a branch**.
-6. Select `main` and `/ (root)`, then Save.
-7. Your site will be available at:
-   `https://YOUR-GITHUB-USERNAME.github.io/java-fullstack-training/`
-
-## Updating the website
-
-Edit the files, commit/push them to `main`, and GitHub Pages will publish the new version.
-
-## Notes
-
-- No paid hosting is required.
-- No database is required for this brochure/contact website.
-- WhatsApp opens directly using `wa.me`.
-- The Resume button serves the PDF from the repository.
+## Editing
+This is plain HTML/CSS/JavaScript. No Node.js, Angular build or database is required to host it.

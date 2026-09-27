@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://psrofficial07.github.io/java-fullstack-training/sitemap.xml
