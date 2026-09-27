@@ -2,9 +2,9 @@ const SITE_CONFIG = {
   baseUrl: 'https://psrofficial07.github.io/java-fullstack-training',
   linkedin: 'https://www.linkedin.com/in/pradeepsingh80/',
   github: 'https://github.com/psrofficial07',
-  whatsapp: '917737326539',
+  whatsapp: '918209027337',
   email: 'pradeepsb094@gmail.com',
-  phone: '+91 7737326539',
+  phone: '+91 8209027337',
   location: 'Bindayaka, Jaipur, Rajasthan 302041'
 };
 

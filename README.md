@@ -17,7 +17,7 @@ Free static website for GitHub Pages. Built for Pradeep Singh Bhawariya's in-hou
 The website is pre-configured with the supplied contact profiles:
 - LinkedIn: `https://www.linkedin.com/in/pradeepsingh80/`
 - GitHub: `https://github.com/psrofficial07`
-- WhatsApp: `https://wa.me/917737326539`
+- WhatsApp: `https://wa.me/918209027337`
 
 The recruiter CV is intentionally not published on the training website. The training site is designed for student conversion and direct course enquiries; professional background is presented as trainer credibility instead.
 
