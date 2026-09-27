@@ -137,3 +137,15 @@ img { max-width:100%; }
 
 .text-link{display:inline-block;margin-top:12px;font-weight:700;text-decoration:none}
 .text-link:hover{text-decoration:underline}
+
+
+/* Student-first conversion section */
+.student-start { background:linear-gradient(180deg,#f7faff 0%,#ffffff 100%); }
+.student-card { position:relative; overflow:hidden; }
+.student-step { width:44px; height:44px; display:grid; place-items:center; border-radius:14px; background:linear-gradient(135deg,#1d5cff,#00a8a8); color:#fff; font-weight:900; margin-bottom:18px; box-shadow:0 10px 24px rgba(29,92,255,.18); }
+.student-card h3 { font-size:1.25rem; }
+.student-card p { font-size:1rem; line-height:1.72; }
+.student-cta { margin-top:24px; padding:22px 24px; border:1px solid #cfe0ff; background:#fff; border-radius:20px; box-shadow:0 14px 35px rgba(20,48,90,.08); display:flex; align-items:center; justify-content:space-between; gap:20px; }
+.student-cta strong { display:block; font-size:1.1rem; }
+.student-cta span { display:block; color:var(--muted); margin-top:4px; }
+@media(max-width:700px){ .student-cta{display:block}.student-cta .btn{margin-top:16px;width:100%} }

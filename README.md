@@ -19,7 +19,7 @@ The website is pre-configured with the supplied contact profiles:
 - GitHub: `https://github.com/psrofficial07`
 - WhatsApp: `https://wa.me/917737326539`
 
-The resume PDF is included at `assets/Pradeep-Singh-Bhawariya-CV.pdf`.
+The recruiter CV is intentionally not published on the training website. The training site is designed for student conversion and direct course enquiries; professional background is presented as trainer credibility instead.
 
 ## GitHub Pages
 1. Upload all files to the root of your repository.
@@ -44,3 +44,7 @@ This is plain HTML/CSS/JavaScript. No Node.js, Angular build or database is requ
 4. Submit `sitemap.xml`.
 5. Inspect the homepage, `java-training-jaipur.html`, and `full-stack-training.html`, then request indexing.
 6. Recheck Search Console after Google has crawled the pages; indexing does not guarantee a particular ranking.
+
+
+## Student-first positioning
+The public training site intentionally does not expose the full recruiter CV. It presents concise trainer credibility, enterprise experience, practical curriculum, student-oriented learning expectations, and a direct “Start ASAP” WhatsApp CTA.
