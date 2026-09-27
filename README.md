@@ -34,3 +34,13 @@ Add the exact live URL as a URL-prefix property and submit:
 
 ## Editing
 This is plain HTML/CSS/JavaScript. No Node.js, Angular build or database is required to host it.
+
+
+## SEO deployment checklist
+
+1. Push the complete site to the GitHub Pages repository.
+2. Confirm GitHub Pages is serving `https://psrofficial07.github.io/java-fullstack-training/`.
+3. In Google Search Console, add the exact GitHub Pages URL as a URL-prefix property.
+4. Submit `sitemap.xml`.
+5. Inspect the homepage, `java-training-jaipur.html`, and `full-stack-training.html`, then request indexing.
+6. Recheck Search Console after Google has crawled the pages; indexing does not guarantee a particular ranking.
